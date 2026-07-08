@@ -12,6 +12,7 @@ leetcode-solutions
 | [0027-remove-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/MananAmabaliya/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
