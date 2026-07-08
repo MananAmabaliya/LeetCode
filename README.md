@@ -8,6 +8,7 @@ leetcode-solutions
 | ------- |
 | [0001-two-sum](https://github.com/MananAmabaliya/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MananAmabaliya/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ leetcode-solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MananAmabaliya/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
