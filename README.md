@@ -19,6 +19,7 @@ leetcode-solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MananAmabaliya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ leetcode-solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +59,7 @@ leetcode-solutions
 | [0075-sort-colors](https://github.com/MananAmabaliya/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MananAmabaliya/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
