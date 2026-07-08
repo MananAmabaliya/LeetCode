@@ -69,6 +69,7 @@ leetcode-solutions
 | [0877-stone-game](https://github.com/MananAmabaliya/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/MananAmabaliya/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +92,7 @@ leetcode-solutions
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2396-strictly-palindromic-number](https://github.com/MananAmabaliya/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,4 +184,8 @@ leetcode-solutions
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/MananAmabaliya/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/MananAmabaliya/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
