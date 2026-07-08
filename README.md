@@ -23,6 +23,7 @@ leetcode-solutions
 | [0204-count-primes](https://github.com/MananAmabaliya/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MananAmabaliya/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,11 +31,13 @@ leetcode-solutions
 | [0073-set-matrix-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MananAmabaliya/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +51,7 @@ leetcode-solutions
 | [0066-plus-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MananAmabaliya/LeetCode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +88,7 @@ leetcode-solutions
 | [0088-merge-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MananAmabaliya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +132,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
