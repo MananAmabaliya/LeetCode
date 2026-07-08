@@ -25,6 +25,7 @@ leetcode-solutions
 | [0238-product-of-array-except-self](https://github.com/MananAmabaliya/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ leetcode-solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/MananAmabaliya/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +76,7 @@ leetcode-solutions
 | [0125-valid-palindrome](https://github.com/MananAmabaliya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +138,7 @@ leetcode-solutions
 | ------- |
 | [0136-single-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MananAmabaliya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
