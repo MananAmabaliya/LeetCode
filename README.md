@@ -14,6 +14,7 @@ leetcode-solutions
 | [0053-maximum-subarray](https://github.com/MananAmabaliya/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/MananAmabaliya/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ leetcode-solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MananAmabaliya/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/MananAmabaliya/LeetCode/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +57,8 @@ leetcode-solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MananAmabaliya/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
