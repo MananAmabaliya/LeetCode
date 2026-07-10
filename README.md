@@ -14,6 +14,7 @@ leetcode-solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MananAmabaliya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MananAmabaliya/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/MananAmabaliya/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/MananAmabaliya/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MananAmabaliya/LeetCode/tree/master/0075-sort-colors) |
@@ -111,6 +112,7 @@ leetcode-solutions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MananAmabaliya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MananAmabaliya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/MananAmabaliya/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -192,6 +194,7 @@ leetcode-solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MananAmabaliya/LeetCode/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/MananAmabaliya/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MananAmabaliya/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Brainteaser
