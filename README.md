@@ -212,4 +212,8 @@ leetcode-solutions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MananAmabaliya/LeetCode/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/MananAmabaliya/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
