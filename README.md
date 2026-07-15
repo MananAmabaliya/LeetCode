@@ -86,6 +86,7 @@ leetcode-solutions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MananAmabaliya/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/MananAmabaliya/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/MananAmabaliya/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MananAmabaliya/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -193,6 +194,7 @@ leetcode-solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MananAmabaliya/LeetCode/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MananAmabaliya/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
